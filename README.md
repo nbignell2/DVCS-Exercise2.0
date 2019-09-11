@@ -1,2 +1,5 @@
 # DVCS-Exercise2.0
- Using .Framework
+
+Originally did not use .Net framework
+
+Nate Bignell
